@@ -31,5 +31,11 @@ int main() {
     return 0;
 }
 ```
+Output
+```
+Plaintext: Hello, World!
+Encrypted (Hex): 4AF6287D964F3BF6301684747A381A75
+Decrypted: Hello, World!
+```
 ### Note
 Ensure that the key and IV lengths are appropriate for AES-256 (key: 32 bytes, IV: 16 bytes). The class does not perform length checks or error handling for incorrect key/IV lengths.
