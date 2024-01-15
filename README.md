@@ -10,7 +10,7 @@ macOS or iOS development environment (as CommonCrypto is part of these platforms
 ```cpp
 #include <CommonCrypto/CommonCrypto.h>
 #include <string>
-#include "AESCryptor.h"
+#include "AES.h"
 
 int main() {
     std::string key = "0123456789abcdef0123456789abcdef";  // 32 bytes for AES-256
