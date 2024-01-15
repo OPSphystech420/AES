@@ -1,14 +1,13 @@
-### AESCryptor
-# Overview
+# AESCryptor
+### Overview
 AESCryptor is a C++ class that provides AES encryption and decryption functionalities using the CommonCrypto library. It supports AES-256 encryption and uses PKCS#7 padding.
 
-# Prerequisites
+### Prerequisites
 C++ Compiler (supporting C++11 or higher)
 macOS or iOS development environment (as CommonCrypto is part of these platforms)
 
-# Example
+### Example
 ```cpp
-Copy code
 #include <CommonCrypto/CommonCrypto.h>
 #include <string>
 #include "AESCryptor.h"
@@ -32,5 +31,5 @@ int main() {
     return 0;
 }
 ```
-# Note
+### Note
 Ensure that the key and IV lengths are appropriate for AES-256 (key: 32 bytes, IV: 16 bytes). The class does not perform length checks or error handling for incorrect key/IV lengths.
