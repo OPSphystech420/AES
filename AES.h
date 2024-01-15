@@ -1,7 +1,7 @@
 //
 //
-// AES (Advanced Encryption Standard) for C++ strings using CommomCrypto library.
-// Made by GrimReaper31, 15/01/2024.
+// AES (Advanced Encryption Standard) for C++ using CommomCrypto library.
+// Made by OPSphystech420, 15/01/2024.
 //
 
 
