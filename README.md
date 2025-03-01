@@ -47,7 +47,6 @@ Encrypted (Hex): 4AF6287D964F3BF6301684747A381A75
 Decrypted: Hello, World!
 ```
 
-## Objective-C++ Integration
 
 For macOS and iOS applications, AESCryptor supports `NSString*` encryption and decryption.
 
