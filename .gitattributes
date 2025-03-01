@@ -1,1 +1,1 @@
-.github/objc-custom-action/** -linguist-vendored
+*.h linguist-language=Objective-C++
