@@ -1,7 +1,5 @@
 # AESCryptor
 
-## Overview
-
 AESCryptor is a C++ class that provides AES encryption and decryption functionalities using the CommonCrypto library. It supports AES-256 encryption and uses PKCS#7 padding.
 
 ## Prerequisites
