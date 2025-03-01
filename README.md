@@ -51,4 +51,4 @@ Decrypted: Hello, World!
 For macOS and iOS applications, AESCryptor supports `NSString*` encryption and decryption.
 
 ### Note
-Ensure that the key and IV lengths are appropriate for AES-256 (key: 32 bytes, IV: 16 bytes). The class does not perform length checks or error handling for incorrect key/IV lengths.
+Ensure that the key and IV lengths are appropriate for AES-256 (key: 32 bytes, IV: 16 bytes).
