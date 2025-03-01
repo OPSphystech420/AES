@@ -7,10 +7,6 @@ AESCryptor is a C++ class that provides AES encryption and decryption functional
 - C++ Compiler supporting C++11 or higher
 - macOS or iOS development environment (CommonCrypto is part of these platforms)
 
-## Installation
-
-Include `AES.h` in your project and link against the CommonCrypto framework.
-
 ## Usage
 
 ### Example
